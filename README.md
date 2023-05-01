@@ -17,3 +17,6 @@ MICROSERVICE DEVELOPMENT W/ GO, SEMESTRAL WORK - Version 0.1.0
 
 ## Documentation
 Additional information regarding this system is stored in [wiki](https://github.com/MichalMoudry/4IT428-semestral-work/wiki "This repository's wiki").
+
+## Links to each service
+- [Identity API](https://github.com/MichalMoudry/newsletter-platform-identity "Identity API")
